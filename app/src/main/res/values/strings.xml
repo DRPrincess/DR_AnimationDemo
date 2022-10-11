@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DR_AnimationDemo</string>
+    <string name="start">开始动画</string>
+
 </resources>
